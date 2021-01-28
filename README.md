@@ -3,8 +3,7 @@ January 28th, 2020
 
 
 ### Overview
-Simple Hello World text displau.
+Simple Hello World text display.
 
 ### Technical Details
-
-Modify the sketch.js setup() and draw() are used only
+The sketch.js setup() and draw() are used only. No preload function.
