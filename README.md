@@ -1,7 +1,6 @@
 ## Hello World
 January 28th, 2020
 
-
 ### Overview
 Simple Hello World text display.
 
